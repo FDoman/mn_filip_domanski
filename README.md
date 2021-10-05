@@ -1,1 +1,1 @@
-# Zadania z laboratium Metod Numerycznych - Filip Domański
+# Zadania z laboratorium Metod Numerycznych - Filip Domański
