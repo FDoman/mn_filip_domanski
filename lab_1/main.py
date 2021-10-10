@@ -62,7 +62,7 @@ def matrix_calculations(a: float):
     mt = matrix.transpose()
     mdet = np.linalg.det(matrix)
     if mdet == 0:
-        minv = np.NaN
+        minv = None
     else:
         minv = np.linalg.inv(matrix)
 
